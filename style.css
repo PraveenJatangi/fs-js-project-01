@@ -1,0 +1,145 @@
+*{
+  margin: 0px;
+  padding: 0px;
+}
+
+.navbar-container {
+  display: flex;
+
+  margin: 30px;
+  /* height: 20vh; */
+}
+.header-img {
+  /* flex: 1; */
+  margin: auto;
+}
+.header-img img {
+  width: 80%;
+}
+
+.list {
+  flex: 2;
+  display: flex;
+  /* justify-content: ; */
+  list-style-type: none;
+  margin: 0 10%;
+}
+.list .list-item {
+  font-family: Orbitron;
+  margin: auto;
+  font-size: 22px;
+}
+.list-item:hover,
+.list-item:active {
+  font-weight: bold;
+  text-decoration: underline;
+}
+.right {
+  width: 50%;
+}
+.button-group {
+  justify-content: end;
+
+  /* flex: 1; */
+  display: flex;
+
+  /* margin: auto; */
+}
+.search-icon {
+  margin: auto;
+  padding: 0 20px;
+}
+.nav-button {
+  margin: auto;
+  background: none;
+  padding: 10px 45px;
+  border: solid black 1.5px;
+  border-radius: 12px;
+}
+.banner {
+  display: flex;
+}
+.hero-container {
+  display: flex;
+  margin:30px;
+}
+.hero-container-right {
+  flex: 1;
+  width: 50%;
+  margin-top: 150px;
+  display: inline;
+}
+.icons span {
+  padding: 10px;
+}
+.icons {
+  margin-top: 10px;
+  margin-left: 200px; */
+  /* display: flex;
+  /* margin: auto; */
+}
+.square img {
+  position: absolute;
+  top: 520px;
+  left: 230px;
+}
+.person-img img {
+  position: relative;
+  z-index: 1;
+  top: 90px;
+}
+.globe-img-fast {
+  position: absolute;
+  top: 150px;
+  left: 57%;
+}
+.star {
+  position: absolute;
+  margin-top: 100px;
+  margin-left: 90%;
+}
+.hero-heading {
+  font-family: Orbitron;
+  font-size: 50px;
+  font-weight: 50px;
+}
+.hero-description {
+  font-family: Poppins;
+  padding: 20px 40px;
+  font-weight: lighter;
+
+}
+.button-join,
+.button-email {
+  font-family: Orbitron;
+
+  border-radius: 8px;
+  font-size: 20px;
+  margin-top: 100px;
+  margin-left: 100px;
+  padding: 3px 20px;
+}
+.button-join {
+  background-color: black;
+  color: white;
+  margin:10px;
+}
+.contact-heading {
+  font-family: Poppins;
+  font-size: 20px;
+  font-weight: lighter;
+  text-align: center;
+  margin-top: 150px;
+}
+
+span.star-1 {
+  position: absolute;
+  top: 110%;
+  left: 50%;
+
+}
+
+
+span.star-1 img {
+    width: 45px;
+}
