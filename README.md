@@ -6,13 +6,13 @@
 ![HTML & CSS](https://img.shields.io/badge/HTML-CSS-orange)
 ![Live class](https://img.shields.io/badge/LIVE--CLASS-PROJECT--1-lightgrey)
 
-![script](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![name](https://img.shields.io/badge/name%20-praveen-green)
 
 ## Project 1 [Live Link](https://fs-js-project-01.netlify.app/)
 
--   Skills Gained in this project
-    -   Learned to create linear gradient border using **::before** pseudo element
-    -   Learned to create complex cards with different sections.
+-   What i learnt in this project
+    - css positions,margins,paddings and adding images to web page.  
+    -  learnt how to use z-index 
 
 ---
 #### Screenshot
